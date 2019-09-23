@@ -88,7 +88,7 @@ Creates a new interactive Scala, Python, or R shell in the cluster.
   </tr>
   <tr>
     <td>jars</td>
-    <td>jars to be used in this session</td>
+    <td>Jars to be used in this session</td>
     <td>List of string</td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ Creates a new interactive Scala, Python, or R shell in the cluster.
   </tr>
   <tr>
     <td>files</td>
-    <td>files to be used in this session</td>
+    <td>Files to be used in this session</td>
     <td>List of string</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ Creates a new interactive Scala, Python, or R shell in the cluster.
   </tr>
   <tr>
     <td>queue</td>
-    <td>The name of the YARN queue to which submitted</td>
+    <td>The name of the YARN queue to which the application is submitted</td>
     <td>string</td>
   </tr>
   <tr>
