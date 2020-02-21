@@ -305,7 +305,7 @@ Cancel the specified statement in this session.
   <tr><th>Name</th><th>Description</th><th>Type</th></tr>
   <tr>
     <td>msg</td>
-    <td>is always "canceled"</td>
+    <td>Is always "canceled"</td>
     <td>string</td>
   </tr>
 </table>
@@ -330,7 +330,7 @@ Runs a statement in a session.
   </tr>
   <tr>
     <td>cursor</td>
-    <td>cursor position to get proposals</td>
+    <td>Cursor position to get proposals</td>
     <td>string</td>
   </tr>
 </table>
@@ -415,7 +415,7 @@ Returns all the active batch sessions.
   </tr>
   <tr>
     <td>jars</td>
-    <td>jars to be used in this session</td>
+    <td>Jars to be used in this session</td>
     <td>list of strings</td>
   </tr>
   <tr>
@@ -425,7 +425,7 @@ Returns all the active batch sessions.
   </tr>
   <tr>
     <td>files</td>
-    <td>files to be used in this session</td>
+    <td>Files to be used in this session</td>
     <td>list of strings</td>
   </tr>
   <tr>
